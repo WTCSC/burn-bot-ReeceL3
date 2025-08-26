@@ -7,7 +7,7 @@ number = int(input("What is your favorite number\n"))
 
 
 myAge = 67
-print (f"Your name is hideous I'm suprised your parents named you that")
+print (f"Your name is hideous; I'm suprised your parents named you that")
     sleep(3)
 if age <= myAge:
     print(f"Man if you aren't younger than me you're an unc") 
